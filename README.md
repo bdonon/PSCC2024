@@ -12,7 +12,7 @@ This repository accompanies our paper *Topology-Aware Reinforcement Learning for
 
 ## Optimization Baseline
 - The optimization baseline can be found [here](https://github.com/montefiore-ms/ACOPF4TVC)
-- As this baseline only works with matpower data, one needs to preprocess (resp. postprocess) data before (resp. after) applying the baselin. Both scripts can be found [here]().
+- As this baseline only works with matpower data, one needs to preprocess (resp. postprocess) data before (resp. after) applying the baselin. Both scripts can be found [here](https://github.com/bdonon/ACOPF4TVC_converter/tree/PSCC24).
 
 ## GNN training
 - The code used for the training of our Graph Neural Network policies is available [here](). Notice that this version provides trained policies as well as the configuration files that were used in our experiments.
