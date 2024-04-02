@@ -15,7 +15,7 @@ This repository accompanies our paper *Topology-Aware Reinforcement Learning for
 - As this baseline only works with matpower data, one needs to preprocess (resp. postprocess) data before (resp. after) applying the baselin. Both scripts can be found [here](https://github.com/bdonon/ACOPF4TVC_converter/tree/PSCC24).
 
 ## GNN training
-- The code used for the training of our Graph Neural Network policies is available [here](https://github.com/bdonon/ml4ps/tree/v.pscc2024). Notice that this version provides trained policies as well as the configuration files that were used in our experiments.
+- The code used for the training of our Graph Neural Network policies is available [here](https://github.com/bdonon/ml4ps/tree/pscc2024). Notice that this version provides trained policies as well as the configuration files that were used in our experiments.
 
 ## Supplementary Material
 A supplementary material to our paper can be found [here](https://hdl.handle.net/2268/306778).
